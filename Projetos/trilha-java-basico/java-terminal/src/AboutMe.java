@@ -18,6 +18,8 @@ public class AboutMe {
 		System.out.println("Digite sua altura");
 		double altura = scanner.nextDouble();
 
+		scanner.close();
+
 		// // os argumentos começam com indice 0
 		// String nome = args[0];
 		// String sobrenome =  args[1];
