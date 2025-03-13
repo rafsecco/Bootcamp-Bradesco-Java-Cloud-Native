@@ -95,11 +95,4 @@ replay_pid*
 
 # End of https://www.toptal.com/developers/gitignore/api/java,eclipse
 
-*.txt
-Projetos/trilha-java-basico/java-anatomia-classes/.vscode/settings.json
-Projetos/trilha-java-basico/java-tipos-variaveis/.vscode/settings.json
-Projetos/trilha-java-basico/sistema-smart-tv/.vscode/settings.json
-Projetos/trilha-java-basico/java-docs/.vscode/settings.json
-Projetos/trilha-java-basico/java-terminal/.vscode/settings.json
-Projetos/trilha-java-basico/controle-fluxo/.vscode/settings.json
-Projetos/trilha-java-basico/controle-candidatos/.vscode/settings.json
+Docs/*
