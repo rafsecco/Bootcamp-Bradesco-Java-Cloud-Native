@@ -20,5 +20,9 @@ public class Banco {
 		this.nome = nome;
 	}
 
-	///todo: Implementar metodo para listar todos os clientes do banco
+	public void listarClientes() {
+		var listaNomesUnicos = contas.stream().map(conta -> conta.getCliente().getNome()).distinct();
+		listaNomesUnicos.forEach(System.out::println);
+	}
+
 }

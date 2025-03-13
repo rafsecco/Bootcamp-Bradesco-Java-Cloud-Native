@@ -44,4 +44,8 @@ public abstract class Conta implements IConta {
 	public double getSaldo() {
 		return saldo;
 	}
+
+	public Cliente getCliente() {
+		return cliente;
+	}
 }
