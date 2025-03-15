@@ -9,8 +9,7 @@ public class AulaSpringDataJpaApplication {
 	public static void main(String[] args) {
 		System.out.println("***** Rodando App ************************************************************");
 		SpringApplication.run(AulaSpringDataJpaApplication.class, args);
-		System.out.println("Hello World!");
-		System.out.println("*****************************************************************");
+		System.out.println("***** Fim App *****************************************************************");
 	}
 
 }
