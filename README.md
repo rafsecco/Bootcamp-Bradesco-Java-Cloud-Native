@@ -1,7 +1,3 @@
-# curso-dio-java
-
-
-
 # Bootcamp Bradesco - Java Cloud Native
 
 Repositório para armazenar todo o conteúdo do curso Bootcamp Bradesco - Java Cloud Native
