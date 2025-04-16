@@ -1,0 +1,22 @@
+services:
+  db:
+    image: mysql:8.3.0
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_USER: jdbc-sample
+      MYSQL_PASSWORD: jdbc-sample
+      MYSQL_DATABASE: jdbc-sample
+    ports:
+      - "3306:3306"
+
+  phpmyadmin:
+    image: phpmyadmin
+    restart: always
+    ports:
+      - 8080:80
+    environment:
+      - PMA_ARBITRARY=1
+
+# docker-compose -p bootcamp-java-jdbc-mysql build
+# docker-compose -p bootcamp-java-jdbc-mysql up -d
+# docker-compose -p bootcamp-java-jdbc-mysql down
