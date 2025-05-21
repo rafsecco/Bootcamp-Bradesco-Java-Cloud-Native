@@ -39,6 +39,18 @@ O conteúdo abrange desde fundamentos básicos até o desenvolvimento de aplica�
 
 ### ☁️ Trabalhando com Ambiente Cloud na Azure
 - Introdução à plataforma Microsoft Azure.
+- Benefícios da computação na nuvem.
+- Tipos de serviços de nuvem.
+- Componentes de arquitetura do azure.
+- Computação e rede na azure.
+- Identidade, acesso e segurança.
+
+### 🤖 Trabalhando com Ambiente Cloud na Azure
+- Conceitos fundamentais de IA.
+- Conceitos de processamento de lingragem natural.
+- Inteligência de documentos de IA do azure.
+- Fundamentos de IA generativa.
+- Trabalhando com serviços azure OpenAI.
 
 ---
 
