@@ -45,7 +45,7 @@ O conteúdo abrange desde fundamentos básicos até o desenvolvimento de aplica�
 - Computação e rede na azure.
 - Identidade, acesso e segurança.
 
-### 🤖 Trabalhando com Ambiente Cloud na Azure
+### 🤖 Serviços Cloud de Inteligência Artificial
 - Conceitos fundamentais de IA.
 - Conceitos de processamento de lingragem natural.
 - Inteligência de documentos de IA do azure.
